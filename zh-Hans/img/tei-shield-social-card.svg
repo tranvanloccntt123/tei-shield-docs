@@ -1,0 +1,12 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0B1020"/>
+  <circle cx="1020" cy="80" r="260" fill="#6457F5" fill-opacity=".32"/>
+  <circle cx="118" cy="590" r="290" fill="#A8F0D4" fill-opacity=".16"/>
+  <path d="M630 110L850 200V350C850 488 759 514 630 564C501 514 410 488 410 350V200L630 110Z" fill="#A8F0D4"/>
+  <path d="M630 216L762 270V354C762 432 708 462 630 493C552 462 498 432 498 354V270L630 216Z" fill="#6457F5"/>
+  <path d="M582 354L616 388L686 304" stroke="#F8FAFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="90" y="235" fill="#A8F0D4" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="6">TEI SHIELD</text>
+  <text x="90" y="320" fill="#F8FAFF" font-family="Arial, sans-serif" font-size="66" font-weight="700">Local device</text>
+  <text x="90" y="395" fill="#F8FAFF" font-family="Arial, sans-serif" font-size="66" font-weight="700">risk signals.</text>
+  <text x="90" y="454" fill="#AEB8D2" font-family="Arial, sans-serif" font-size="24">Android · iOS · React Native · Flutter</text>
+</svg>
